@@ -1,2 +1,6 @@
 # Python-discord-bot-Simple-
-Simple discord.py bot !
+
+  Super simple discord.py bot.
+  
+- This bot will print a random
+  question in chat.
